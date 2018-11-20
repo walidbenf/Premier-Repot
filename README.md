@@ -1,4 +1,4 @@
-<span class="bg-info text-success">
+<span class="bg-primary">
 <a name="top"></a>
 
 # Premier-repot
