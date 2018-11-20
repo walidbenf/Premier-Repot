@@ -1,3 +1,4 @@
+<span class="bg-info text-success">
 <a name="top"></a>
 
 # Premier-repot
@@ -26,10 +27,8 @@
 
 [retour en haut](#top "top")
 
-<!--> <span style="color :#26B260"><!-->
-
 | texte  | texte2 | texte3 |
 | :----- | ------ | ------ |
 | texte4 | texte5 | texte6 |
 
-<!--></span>
+</span>
