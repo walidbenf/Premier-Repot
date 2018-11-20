@@ -1,4 +1,3 @@
-<span class="bg-primary">
 <a name="top"></a>
 
 # Premier-repot
@@ -27,8 +26,6 @@
 
 [retour en haut](#top "top")
 
-| texte  | texte2 | texte3 |
-| :----- | ------ | ------ |
-| texte4 | texte5 | texte6 |
-
-</span>
+| color:red texte | texte2 | texte3 |
+| :-------------- | ------ | ------ |
+| texte4          | texte5 | texte6 |
