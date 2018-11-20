@@ -28,4 +28,3 @@
 
 | color:red texte | texte2 | texte3 |
 | :-------------- | ------ | ------ |
-| texte4          | texte5 | texte6 |
