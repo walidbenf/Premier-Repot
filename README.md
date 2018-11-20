@@ -26,9 +26,8 @@
 
 [retour en haut](#top "top")
 
-| <span style="color : text-danger">
+| <span style="color :#26B260">
 | texte | texte2 | texte3 |
 | :---- | ------ | ------ |
 | texte4 | texte5 | texte6 |
-
 </span>
