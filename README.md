@@ -25,3 +25,7 @@
   <a name="ancre"></a>
 
 [retour en haut](#top "top")
+
+| texte  | texte2 | texte3 |
+| :----- | ------ | ------ |
+| texte4 | texte5 | texte6 |
